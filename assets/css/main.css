@@ -13,8 +13,7 @@ body {
 
 .timeline {
   position: relative;
-  width: 660px;
-  margin: 0 auto;
+  width: 100%;
   margin-top: 20px;
   padding: 1em 0;
   list-style-type: none;
